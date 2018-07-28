@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>resume</title>
+    <link rel="stylesheet" href="s.css">
+  </head>
+  <body>
+    <div class="main">
+        <div class="left">
+             <img src="profile.png" alt="">
+             <h4 id="name">supriya</h4>
+             <h4 style="color:red">+91-8346237621</h4>
+             <a href="mailto:supriyakonakanchi20@gmail.com">supriyakonakanchi20@gmail.com</a>
+             <h2>address:</h2>
+             <hr>
+             <p>NH9,Hyd road ,Mic college,kanchikacherla,521180</p>
+
+        </div>
+        <div class="right">
+              
+        </div>
+
+      </div>
+  </body>
+</html>
